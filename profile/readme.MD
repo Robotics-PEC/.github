@@ -1,3 +1,4 @@
+[![Chat](https://img.shields.io/discord/596350022191415318?color=%235865F2&logo=discord&logoColor=%23FFFFFF&style=flat-square)](https://discord.gg/4YXnhjYTSk)
 ### Hi there 👋
 
 This is the Official Github Repo for Robotics Society PEC
