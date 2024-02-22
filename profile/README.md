@@ -1,5 +1,6 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/Robotics-Society-PEC?style=plastic)
 [![Chat](https://img.shields.io/discord/1196709635445501962?color=%235865F2&logo=discord&logoColor=%23FFFFFF&style=plastic)](https://discord.gg/4YXnhjYTSk)
+![GitHub followers](https://img.shields.io/github/followers/Robotics-Society-PEC?style=plastic)
 ### Hi there 👋
 
 This is the Official Github Repo for Robotics Society PEC
