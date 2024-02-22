@@ -14,7 +14,7 @@ The pec robotics is a great alternative to traditional sports. Meeting friends f
 ## 🤔RECRUITMENT
 To be a part of it all you need is passion and a
 willingness to learn
-So what are you waiting for?
+so what are you waiting for?
 ## Come , learn and serve.
 #pecrobotics
 #keepingtechfun
