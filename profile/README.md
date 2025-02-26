@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/github/stars/Robotics-Society-PEC?style=flat" alt="GitHub Org's stars" /> <img src="https://img.shields.io/discord/1196709635445501962?style=flat&logo=discord&logoColor=white" alt="Discord" /> <img src="https://img.shields.io/github/followers/Robotics-Society-PEC?style=flat" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Robotics-PEC?style=flat" alt="GitHub Org's stars" /> <img src="https://img.shields.io/discord/1196709635445501962?style=flat&logo=discord&logoColor=white" alt="Discord" /> <img src="https://img.shields.io/github/followers/Robotics-PEC?style=flat" alt="GitHub followers" />
 
 ### Hi there 👋
 
